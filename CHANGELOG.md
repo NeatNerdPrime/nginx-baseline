@@ -1,94 +1,37 @@
 # Changelog
 
-## [2.3.2](https://github.com/dev-sec/nginx-baseline/tree/2.3.2) (2020-06-18)
+## [0.0.1](https://github.com/NeatNerdPrime/nginx-baseline/tree/0.0.1) (2020-06-18)
 
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.3.1...2.3.2)
-
-**Merged pull requests:**
-
-- version alignment [\#40](https://github.com/dev-sec/nginx-baseline/pull/40) ([micheelengronne](https://github.com/micheelengronne))
-
-## [2.3.1](https://github.com/dev-sec/nginx-baseline/tree/2.3.1) (2020-06-18)
-
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.3.0...2.3.1)
-
-**Closed issues:**
-
-- Profile fails `inspec json` [\#33](https://github.com/dev-sec/nginx-baseline/issues/33)
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2.2.0...0.0.1)
 
 **Merged pull requests:**
 
-- github actions release [\#39](https://github.com/dev-sec/nginx-baseline/pull/39) ([micheelengronne](https://github.com/micheelengronne))
-- Declare control source as UTF-8 encoding. [\#34](https://github.com/dev-sec/nginx-baseline/pull/34) ([james-stocks](https://github.com/james-stocks))
+- \[pull\] master from dev-sec:master [\#2](https://github.com/NeatNerdPrime/nginx-baseline/pull/2) ([pull[bot]](https://github.com/apps/pull))
+- \[pull\] master from dev-sec:master [\#1](https://github.com/NeatNerdPrime/nginx-baseline/pull/1) ([pull[bot]](https://github.com/apps/pull))
 
-## [2.3.0](https://github.com/dev-sec/nginx-baseline/tree/2.3.0) (2019-05-15)
+## [2.2.0](https://github.com/NeatNerdPrime/nginx-baseline/tree/2.2.0) (2018-06-26)
 
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.2.0...2.3.0)
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2.1.0...2.2.0)
 
-**Merged pull requests:**
+## [2.1.0](https://github.com/NeatNerdPrime/nginx-baseline/tree/2.1.0) (2017-11-19)
 
-- Bump version to 2.3.0 and switch to inspec 3 for check [\#32](https://github.com/dev-sec/nginx-baseline/pull/32) ([alexpop](https://github.com/alexpop))
-- Templates [\#30](https://github.com/dev-sec/nginx-baseline/pull/30) ([rndmh3ro](https://github.com/rndmh3ro))
-- remove test for hardening.conf file [\#28](https://github.com/dev-sec/nginx-baseline/pull/28) ([rndmh3ro](https://github.com/rndmh3ro))
-- use parse\_config instead of parse\_config\_file [\#27](https://github.com/dev-sec/nginx-baseline/pull/27) ([rndmh3ro](https://github.com/rndmh3ro))
-- Make nginx-14 and nginx-16 disabled by default based on dev-sec/nginx-baseline\#21 [\#26](https://github.com/dev-sec/nginx-baseline/pull/26) ([woneill](https://github.com/woneill))
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2.0.2...2.1.0)
 
-## [2.2.0](https://github.com/dev-sec/nginx-baseline/tree/2.2.0) (2018-06-26)
+## [2.0.2](https://github.com/NeatNerdPrime/nginx-baseline/tree/2.0.2) (2017-05-08)
 
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.1.0...2.2.0)
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2.0.1...2.0.2)
 
-**Closed issues:**
+## [2.0.1](https://github.com/NeatNerdPrime/nginx-baseline/tree/2.0.1) (2016-12-22)
 
-- client\_max\_body\_size 1k disallows file uploads [\#13](https://github.com/dev-sec/nginx-baseline/issues/13)
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2.0.0...2.0.1)
 
-**Merged pull requests:**
+## [2.0.0](https://github.com/NeatNerdPrime/nginx-baseline/tree/2.0.0) (2016-05-03)
 
-- Duplicated control 'nginx-11' [\#24](https://github.com/dev-sec/nginx-baseline/pull/24) ([pbanderas](https://github.com/pbanderas))
-- Control label 'nginx-07' is used twice [\#22](https://github.com/dev-sec/nginx-baseline/pull/22) ([woneill](https://github.com/woneill))
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/1.0.0...2.0.0)
 
-## [2.1.0](https://github.com/dev-sec/nginx-baseline/tree/2.1.0) (2017-11-19)
+## [1.0.0](https://github.com/NeatNerdPrime/nginx-baseline/tree/1.0.0) (2015-10-15)
 
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.0.2...2.1.0)
-
-**Merged pull requests:**
-
-- More nginx controls, add attribute client\_max\_body\_size [\#19](https://github.com/dev-sec/nginx-baseline/pull/19) ([atomic111](https://github.com/atomic111))
-- use recommended spdx license identifier [\#18](https://github.com/dev-sec/nginx-baseline/pull/18) ([chris-rock](https://github.com/chris-rock))
-- Fix deprecation warnings. [\#17](https://github.com/dev-sec/nginx-baseline/pull/17) ([tmclaugh](https://github.com/tmclaugh))
-- readme update, change log & tooling [\#14](https://github.com/dev-sec/nginx-baseline/pull/14) ([chris-rock](https://github.com/chris-rock))
-
-## [2.0.2](https://github.com/dev-sec/nginx-baseline/tree/2.0.2) (2017-05-08)
-
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.0.1...2.0.2)
-
-**Merged pull requests:**
-
-- update metadata [\#16](https://github.com/dev-sec/nginx-baseline/pull/16) ([chris-rock](https://github.com/chris-rock))
-- restrict ruby testing to version 2.3.3 and update gemfile [\#15](https://github.com/dev-sec/nginx-baseline/pull/15) ([atomic111](https://github.com/atomic111))
-
-## [2.0.1](https://github.com/dev-sec/nginx-baseline/tree/2.0.1) (2016-12-22)
-
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2.0.0...2.0.1)
-
-**Closed issues:**
-
-- Tests skipped if command nginx not in PATH [\#12](https://github.com/dev-sec/nginx-baseline/issues/12)
-
-**Merged pull requests:**
-
-- fix typo [\#11](https://github.com/dev-sec/nginx-baseline/pull/11) ([rndmh3ro](https://github.com/rndmh3ro))
-
-## [2.0.0](https://github.com/dev-sec/nginx-baseline/tree/2.0.0) (2016-05-03)
-
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/1.0.0...2.0.0)
-
-**Merged pull requests:**
-
-- migrate to inspec profile [\#10](https://github.com/dev-sec/nginx-baseline/pull/10) ([atomic111](https://github.com/atomic111))
-
-## [1.0.0](https://github.com/dev-sec/nginx-baseline/tree/1.0.0) (2015-10-15)
-
-[Full Changelog](https://github.com/dev-sec/nginx-baseline/compare/2661c2a3199aa2dd9823f292c15c786a785149ab...1.0.0)
+[Full Changelog](https://github.com/NeatNerdPrime/nginx-baseline/compare/2661c2a3199aa2dd9823f292c15c786a785149ab...1.0.0)
 
 
 
